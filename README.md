@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Frameworks and Libraries**
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Connect with me:</h1>
 <p align="center">
 <a href="https://twitter.com/basuraguxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="basuraguxi" height="30" width="40" /></a>
 <a href="https://instagram.com/gald0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gald0n" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">Languages and Tools:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,vscode,pr,ps,obsidian" />
