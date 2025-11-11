@@ -3,12 +3,6 @@
 
 - 🌱 I’m currently learning **Frameworks and Libraries**
 
-<h1 align="center">Connect with me:</h1>
-<p align="center">
-<a href="https://twitter.com/basuraguxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="basuraguxi" height="30" width="40" /></a>
-<a href="https://instagram.com/gald0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gald0n" height="30" width="40" /></a>
-</p>
-
 <h1 align="center">Languages and Tools:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +10,7 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gald0n&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&locale=en&layout=compact" alt="gald0n" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gald0n&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&locale=en&layout=compact" alt="gald0n" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gald0n&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&locale=en" alt="gald0n" /></p>
 
@@ -34,3 +28,9 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<h1 align="center">Connect with me:</h1>
+<p align="center">
+<a href="https://twitter.com/basuraguxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="basuraguxi" height="30" width="40" /></a>
+<a href="https://instagram.com/gald0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gald0n" height="30" width="40" /></a>
+</p>
