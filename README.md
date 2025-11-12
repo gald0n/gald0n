@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Galdón</h1>
-<h3 align="center">A passionate Web Developer and Frontend developer.</h3>
+<h3 align="center">A passionate Web Developer and Frontend Developer.</h3>
 
 - 🌱 I’m currently learning **Frameworks and Libraries**
 
