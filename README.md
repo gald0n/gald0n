@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Galdón</h1>
+<h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Galdón</h1>
 <h3 align="center">A passionate Web Developer and Frontend Developer.</h3>
 
 - 🌱 I’m currently learning **Frameworks and Libraries**
