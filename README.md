@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Galdón</h1>
-<h3 align="center" Web Developer | Frontend Developer </h3>
+<h3 align="center"> Web Developer | Frontend Developer </h3>
 
 - 🌱 I’m currently learning **Frameworks and Libraries**
 
