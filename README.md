@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Galdón</h1>
 <h3 align="center"> Web Developer | Frontend Developer </h3>
 
-- 🌱 I’m currently learning **Frameworks and Libraries**
-
+- 📚 I’m currently learning **Frameworks** and **Libraries.**
+- 🖥️ In the long term, I want to learn cybersecurity and specialize in **Malware Analysis** and **Digital Forensics.**
 <h1 align="center">Languages and Tools:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
