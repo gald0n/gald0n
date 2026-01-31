@@ -10,10 +10,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gald0n&theme=dark&show_icons=true&hide_border=true&layout=compact" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gald0n&theme=dark&show_icons=true&hide_border=true&count_private=true" /></p>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
