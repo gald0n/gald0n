@@ -3,27 +3,12 @@
 
 - 📚 I’m currently learning **Frameworks** and **Libraries.**
 - 🖥️ In the long term, I want to learn cybersecurity and specialize in **Malware Analysis** and **Digital Forensics.**
-<h1 align="center">Skills and Tools:</h1>
+<h1 align="center"><img src="./img/stack-white.svg" width="18">Skills and Tools:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,py,angular,vscode,obsidian" />
   </a>
 </p>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
