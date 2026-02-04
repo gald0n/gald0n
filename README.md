@@ -1,8 +1,16 @@
 [![Welcome-to-Galdon-s-Github-(1).png](https://i.postimg.cc/Y0t4VBd5/Welcome-to-Galdon-s-Github-(1).png)](https://postimg.cc/ph1Xh4bC)
 <h3 align="center"> Web Developer | Frontend Developer </h3>
 
+<div align="center">
+  <img src="./img/divider.gif" />
+</div>
+
 - 📚 I’m currently learning **Frameworks** and **Libraries.**
 - 🖥️ In the long term, I want to learn cybersecurity and specialize in **Malware Analysis** and **Digital Forensics.**
+
+<div align="center">
+  <img src="./img/divider.gif" />
+</div>
 
 <h2 align="center">
   <img src="./img/stack-white.svg" width="18"> Skills and Tools
