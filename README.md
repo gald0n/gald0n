@@ -1,6 +1,4 @@
-<p align="center">
-  <img src=""D:\Downloads\Welcome to Galdon’s Github.png" "width="400">
-</p>
+[![Welcome-to-Galdon-s-Github.png](https://i.postimg.cc/q77jPW53/Welcome-to-Galdon-s-Github.png)](https://postimg.cc/dhz2dNvs)
 <h3 align="center"> Web Developer | Frontend Developer </h3>
 
 - 📚 I’m currently learning **Frameworks** and **Libraries.**
