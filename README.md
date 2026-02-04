@@ -1,4 +1,6 @@
-<h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Galdón</h1>
+<p align="center">
+  <img src=""D:\Downloads\Welcome to Galdon’s Github.png" "width="400">
+</p>
 <h3 align="center"> Web Developer | Frontend Developer </h3>
 
 - 📚 I’m currently learning **Frameworks** and **Libraries.**
