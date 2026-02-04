@@ -4,9 +4,9 @@
 - 📚 I’m currently learning **Frameworks** and **Libraries.**
 - 🖥️ In the long term, I want to learn cybersecurity and specialize in **Malware Analysis** and **Digital Forensics.**
 
-<h3 align="center">
+<h2 align="center">
   <img src="./img/stack-white.svg" width="18"> Skills and Tools
-</h3>
+</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
