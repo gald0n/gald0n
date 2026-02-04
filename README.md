@@ -1,4 +1,4 @@
-[![Welcome-to-Galdon-s-Github.png](https://i.postimg.cc/q77jPW53/Welcome-to-Galdon-s-Github.png)](https://postimg.cc/dhz2dNvs)
+[![Welcome-to-Galdon-s-Github-(1).png](https://i.postimg.cc/Y0t4VBd5/Welcome-to-Galdon-s-Github-(1).png)](https://postimg.cc/ph1Xh4bC)
 <h3 align="center"> Web Developer | Frontend Developer </h3>
 
 - 📚 I’m currently learning **Frameworks** and **Libraries.**
